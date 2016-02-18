@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C9F762C7548E51808BCA6B4ECDDB9A7145AB3F0D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C9F762C7548E51808BCA6B4ECDDB9A7145AB3F0D" : 0,
+    "A67EBCC3BAACE5E036FFBE18B6206E09D9D08F8D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "02422204-62C5-4149-8096-E6B0728BFB3C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C9F762C7548E51808BCA6B4ECDDB9A7145AB3F0D" : "Yelp\/",
+    "A67EBCC3BAACE5E036FFBE18B6206E09D9D08F8D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Yelp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Yelp.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pemasherpa\/twitter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A67EBCC3BAACE5E036FFBE18B6206E09D9D08F8D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pemasherpa\/yelp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C9F762C7548E51808BCA6B4ECDDB9A7145AB3F0D"
+    }
+  ]
+}
